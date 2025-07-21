@@ -14,10 +14,6 @@
 </main>
 <div class="container">
   <p>A scrollytelling website by Kayla Sookdeosingh <strong></strong>!</p>
-  <p>
-    "
-    <strong>{bio}</strong>.
-  </p>
   <h2>Hope the information was useful !</h2>
 
   
