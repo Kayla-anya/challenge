@@ -20,15 +20,11 @@
   </p>
   <h2>Hope the information was useful !</h2>
 
-  <h2>My Hobbies</h2>
+  
   
 </div>
 
 <style>
-  h1 {
-    color: #2c3e50;
-    font-family: Arial, sans-serif;
-  }
   
  
 </style>
