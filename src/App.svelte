@@ -5,12 +5,13 @@
 
   
   import Image from "./Image.svelte";
-
+  import Disappearing from "./Disappearing.svelte";
   
 </script>
 
 <main>
   <Image />
+  
 </main>
 <div class="container">
   <p>A scrollytelling website by Kayla Sookdeosingh <strong></strong></p>
