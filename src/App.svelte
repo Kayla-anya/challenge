@@ -11,6 +11,7 @@
 
 <main>
   <Image />
+  <Disappearing />
   
 </main>
 <div class="container">
