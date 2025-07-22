@@ -4,8 +4,9 @@
   let hobbies = ["Coding", "Reading", "Traveling"]; // List some hobbies
 
   
+  // @ts-ignore
   import Image from "./Image.svelte";
-  ;
+  
   
 </script>
 
