@@ -1,7 +1,7 @@
 <script>
     import { fade, fly } from "svelte/transition";
     import Scroller from "./Scroller.svelte";
-    
+    import wealth from "wealth.jpg";
 
     let duckIsVisible = $state(false);
 
