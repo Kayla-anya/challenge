@@ -5,13 +5,13 @@
 
   
   import Image from "./Image.svelte";
-  import Disappearing from "./Disappearing.svelte";
+  ;
   
 </script>
 
 <main>
   <Image />
-  <Disappearing />
+  
   
 </main>
 <div class="container">
